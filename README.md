@@ -1,7 +1,6 @@
 # IA-MISSIONNAIRES-CANNIBALES
 Problème des missionnaires et des cannibales
 
-<br>
 ## Présentation
 Le problème des missionnaires et des cannibales est un énigme logique classique bien connu en intelligence artificielle. Il s'agit d'un problème de traversée de la rivière avec trois missionnaires et trois cannibales soumis à différentes contraintes.
 
